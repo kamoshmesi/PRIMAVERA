@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GroupProject
 {
-    public partial class Form1 : Form
+    public partial class signUp : Form
     {
-        public Form1()
+        public signUp()
         {
             InitializeComponent();
         }
