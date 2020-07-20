@@ -83,5 +83,32 @@
   <ItemGroup>
     <None Include="Resources\logo_transparent.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hamburger-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pizza-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-coffee-to-go-480.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food-delivery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mover-truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
