@@ -16,5 +16,10 @@ namespace GroupProject
         {
             InitializeComponent();
         }
+
+        private void signUp_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
