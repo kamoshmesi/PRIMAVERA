@@ -140,5 +140,8 @@
   <ItemGroup>
     <None Include="Resources\hamburger-slider-wallpaper-hamburger-burger-png-image.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jfif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -30,13 +30,6 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -50,6 +43,13 @@
             this.panel12 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel11 = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
@@ -76,7 +76,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(370, 842);
+            this.panel1.Size = new System.Drawing.Size(370, 887);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -89,70 +89,6 @@
             this.label1.Size = new System.Drawing.Size(161, 35);
             this.label1.TabIndex = 10;
             this.label1.Text = "Primavera";
-            // 
-            // panel8
-            // 
-            this.panel8.BackgroundImage = global::GroupProject.Properties.Resources.food_delivery;
-            this.panel8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel8.Location = new System.Drawing.Point(18, 515);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(55, 52);
-            this.panel8.TabIndex = 9;
-            // 
-            // panel9
-            // 
-            this.panel9.BackgroundImage = global::GroupProject.Properties.Resources.mover_truck;
-            this.panel9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel9.Location = new System.Drawing.Point(18, 610);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(55, 52);
-            this.panel9.TabIndex = 9;
-            // 
-            // panel10
-            // 
-            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
-            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel10.Location = new System.Drawing.Point(18, 695);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(55, 52);
-            this.panel10.TabIndex = 9;
-            // 
-            // panel7
-            // 
-            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
-            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel7.Location = new System.Drawing.Point(18, 415);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(55, 52);
-            this.panel7.TabIndex = 8;
-            // 
-            // panel5
-            // 
-            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
-            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel5.Location = new System.Drawing.Point(18, 226);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(55, 49);
-            this.panel5.TabIndex = 8;
-            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
-            // 
-            // panel6
-            // 
-            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
-            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel6.Location = new System.Drawing.Point(18, 321);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(55, 53);
-            this.panel6.TabIndex = 8;
-            // 
-            // panel4
-            // 
-            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
-            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel4.Location = new System.Drawing.Point(18, 143);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(55, 50);
-            this.panel4.TabIndex = 7;
             // 
             // button7
             // 
@@ -292,7 +228,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(370, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1088, 30);
+            this.panel2.Size = new System.Drawing.Size(1197, 30);
             this.panel2.TabIndex = 1;
             // 
             // fileSystemWatcher1
@@ -310,7 +246,7 @@
             this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.button8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Location = new System.Drawing.Point(1399, 42);
+            this.button8.Location = new System.Drawing.Point(1508, 42);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(47, 43);
             this.button8.TabIndex = 3;
@@ -342,17 +278,81 @@
             this.panel11.BackColor = System.Drawing.Color.Transparent;
             this.panel11.BackgroundImage = global::GroupProject.Properties.Resources.bacon_burger;
             this.panel11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel11.Location = new System.Drawing.Point(940, 310);
+            this.panel11.Location = new System.Drawing.Point(1049, 389);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(506, 486);
             this.panel11.TabIndex = 4;
+            // 
+            // panel8
+            // 
+            this.panel8.BackgroundImage = global::GroupProject.Properties.Resources.food_delivery;
+            this.panel8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel8.Location = new System.Drawing.Point(18, 515);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(55, 52);
+            this.panel8.TabIndex = 9;
+            // 
+            // panel9
+            // 
+            this.panel9.BackgroundImage = global::GroupProject.Properties.Resources.mover_truck;
+            this.panel9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel9.Location = new System.Drawing.Point(18, 610);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(55, 52);
+            this.panel9.TabIndex = 9;
+            // 
+            // panel10
+            // 
+            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
+            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel10.Location = new System.Drawing.Point(18, 695);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(55, 52);
+            this.panel10.TabIndex = 9;
+            // 
+            // panel7
+            // 
+            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
+            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel7.Location = new System.Drawing.Point(18, 415);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(55, 52);
+            this.panel7.TabIndex = 8;
+            // 
+            // panel5
+            // 
+            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
+            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel5.Location = new System.Drawing.Point(18, 226);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(55, 49);
+            this.panel5.TabIndex = 8;
+            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+            // 
+            // panel6
+            // 
+            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
+            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel6.Location = new System.Drawing.Point(18, 321);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(55, 53);
+            this.panel6.TabIndex = 8;
+            // 
+            // panel4
+            // 
+            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
+            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel4.Location = new System.Drawing.Point(18, 143);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(55, 50);
+            this.panel4.TabIndex = 7;
             // 
             // signUp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1458, 842);
+            this.ClientSize = new System.Drawing.Size(1567, 887);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.panel12);
             this.Controls.Add(this.panel3);
