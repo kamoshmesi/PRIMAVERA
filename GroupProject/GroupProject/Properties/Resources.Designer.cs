@@ -63,9 +63,79 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1200px_RedDot_Burger {
+            get {
+                object obj = ResourceManager.GetObject("1200px-RedDot_Burger", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _88a10efc_96da_41a5_b8bf_5d803783fcf9 {
+            get {
+                object obj = ResourceManager.GetObject("88a10efc-96da-41a5-b8bf-5d803783fcf9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bacon_burger {
+            get {
+                object obj = ResourceManager.GetObject("bacon-burger", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BP_Double_Low_Priest_On_Black_IMG_0380_scaled_e1591017405865 {
+            get {
+                object obj = ResourceManager.GetObject("BP_Double-Low-Priest_On-Black_IMG_0380-scaled-e1591017405865", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Capture {
+            get {
+                object obj = ResourceManager.GetObject("Capture", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Capture2 {
+            get {
+                object obj = ResourceManager.GetObject("Capture2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap food_delivery {
             get {
                 object obj = ResourceManager.GetObject("food-delivery", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hamburger_slider_wallpaper_hamburger_burger_png_image {
+            get {
+                object obj = ResourceManager.GetObject("hamburger-slider-wallpaper-hamburger-burger-png-image", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
