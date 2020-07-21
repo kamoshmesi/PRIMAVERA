@@ -18,3 +18,4 @@ D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.cspr
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
