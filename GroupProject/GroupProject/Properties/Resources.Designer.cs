@@ -73,9 +73,49 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _395e9d0e_6c13_438e_b6b6_b0c789dd6bc5 {
+            get {
+                object obj = ResourceManager.GetObject("395e9d0e-6c13-438e-b6b6-b0c789dd6bc5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3b9851f0_f850_42cd_a1a4_8f09cda4dcd5 {
+            get {
+                object obj = ResourceManager.GetObject("3b9851f0-f850-42cd-a1a4-8f09cda4dcd5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _86ec3a80_9f6d_454b_97d8_2b91df0e46c7 {
+            get {
+                object obj = ResourceManager.GetObject("86ec3a80-9f6d-454b-97d8-2b91df0e46c7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _88a10efc_96da_41a5_b8bf_5d803783fcf9 {
             get {
                 object obj = ResourceManager.GetObject("88a10efc-96da-41a5-b8bf-5d803783fcf9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap b71ed2c9_ea96_4816_9f3f_ad4e71991bec {
+            get {
+                object obj = ResourceManager.GetObject("b71ed2c9-ea96-4816-9f3f-ad4e71991bec", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -116,6 +156,26 @@ namespace GroupProject.Properties {
         internal static System.Drawing.Bitmap Capture2 {
             get {
                 object obj = ResourceManager.GetObject("Capture2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d44631bf_c117_4e79_847f_445fdefcc05b {
+            get {
+                object obj = ResourceManager.GetObject("d44631bf-c117-4e79-847f-445fdefcc05b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d969b50b_37af_48cc_9931_1110ad61fb87 {
+            get {
+                object obj = ResourceManager.GetObject("d969b50b-37af-48cc-9931-1110ad61fb87", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

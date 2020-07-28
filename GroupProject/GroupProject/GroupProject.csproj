@@ -152,5 +152,23 @@
   <ItemGroup>
     <None Include="Resources\download.jfif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\395e9d0e-6c13-438e-b6b6-b0c789dd6bc5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b71ed2c9-ea96-4816-9f3f-ad4e71991bec.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3b9851f0-f850-42cd-a1a4-8f09cda4dcd5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d44631bf-c117-4e79-847f-445fdefcc05b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\86ec3a80-9f6d-454b-97d8-2b91df0e46c7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d969b50b-37af-48cc-9931-1110ad61fb87.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

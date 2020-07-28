@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GroupProject
 {
-    public partial class signUp : Form
+    public partial class home : Form
     {
-        public signUp()
+        public home()
         {
             InitializeComponent();
         }
@@ -55,6 +55,11 @@ namespace GroupProject
         private void button8_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void userControl11_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

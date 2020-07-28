@@ -1,6 +1,6 @@
 ﻿namespace GroupProject
 {
-    partial class signUp
+    partial class home
     {
         /// <summary>
         /// Required designer variable.
@@ -30,11 +30,6 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -46,6 +41,12 @@
             this.panel12 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel11 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.userControl11 = new GroupProject.UserControl1();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
@@ -82,57 +83,6 @@
             this.label1.Size = new System.Drawing.Size(161, 35);
             this.label1.TabIndex = 10;
             this.label1.Text = "Primavera";
-            // 
-            // panel10
-            // 
-            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
-            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel10.Location = new System.Drawing.Point(19, 521);
-            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(55, 52);
-            this.panel10.TabIndex = 9;
-            // 
-            // panel7
-            // 
-            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
-            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel7.Location = new System.Drawing.Point(19, 415);
-            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(55, 52);
-            this.panel7.TabIndex = 8;
-            // 
-            // panel5
-            // 
-            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
-            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel5.Location = new System.Drawing.Point(19, 226);
-            this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(55, 49);
-            this.panel5.TabIndex = 8;
-            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
-            // 
-            // panel6
-            // 
-            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
-            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel6.Location = new System.Drawing.Point(19, 321);
-            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(55, 53);
-            this.panel6.TabIndex = 8;
-            // 
-            // panel4
-            // 
-            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
-            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel4.Location = new System.Drawing.Point(19, 143);
-            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(55, 50);
-            this.panel4.TabIndex = 7;
             // 
             // button7
             // 
@@ -240,7 +190,7 @@
             this.panel2.Location = new System.Drawing.Point(371, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1224, 30);
+            this.panel2.Size = new System.Drawing.Size(1349, 30);
             this.panel2.TabIndex = 1;
             // 
             // fileSystemWatcher1
@@ -299,12 +249,71 @@
             this.panel11.Size = new System.Drawing.Size(507, 486);
             this.panel11.TabIndex = 4;
             // 
-            // signUp
+            // panel10
+            // 
+            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
+            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel10.Location = new System.Drawing.Point(19, 521);
+            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(55, 52);
+            this.panel10.TabIndex = 9;
+            // 
+            // panel7
+            // 
+            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
+            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel7.Location = new System.Drawing.Point(19, 415);
+            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(55, 52);
+            this.panel7.TabIndex = 8;
+            // 
+            // panel5
+            // 
+            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
+            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel5.Location = new System.Drawing.Point(19, 226);
+            this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(55, 49);
+            this.panel5.TabIndex = 8;
+            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+            // 
+            // panel6
+            // 
+            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
+            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel6.Location = new System.Drawing.Point(19, 321);
+            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(55, 53);
+            this.panel6.TabIndex = 8;
+            // 
+            // panel4
+            // 
+            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
+            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel4.Location = new System.Drawing.Point(19, 143);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(55, 50);
+            this.panel4.TabIndex = 7;
+            // 
+            // userControl11
+            // 
+            this.userControl11.Location = new System.Drawing.Point(371, 67);
+            this.userControl11.Name = "userControl11";
+            this.userControl11.Size = new System.Drawing.Size(1218, 772);
+            this.userControl11.TabIndex = 6;
+            // 
+            // home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1595, 772);
+            this.ClientSize = new System.Drawing.Size(1720, 772);
+            this.Controls.Add(this.userControl11);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.panel12);
             this.Controls.Add(this.panel3);
@@ -312,9 +321,9 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Cursor = System.Windows.Forms.Cursors.Default;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "signUp";
+            this.Name = "home";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "signUp";
             this.Load += new System.EventHandler(this.signUp_Load);
@@ -345,6 +354,7 @@
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Panel panel12;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
+        private UserControl1 userControl11;
     }
 }
 
