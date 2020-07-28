@@ -2,7 +2,6 @@ C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\bin\Debug\GroupP
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\bin\Debug\GroupProject.exe
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csprojAssemblyReference.cache
-C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form1.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.cache
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
@@ -19,3 +18,6 @@ D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.cspr
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
+C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.signUp.resources
+C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
+C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
