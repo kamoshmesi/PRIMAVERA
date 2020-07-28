@@ -70,7 +70,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(371, 772);
+            this.panel1.Size = new System.Drawing.Size(371, 762);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -190,7 +190,7 @@
             this.panel2.Location = new System.Drawing.Point(371, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1349, 30);
+            this.panel2.Size = new System.Drawing.Size(1219, 30);
             this.panel2.TabIndex = 1;
             // 
             // fileSystemWatcher1
@@ -302,17 +302,18 @@
             // 
             // userControl11
             // 
-            this.userControl11.Location = new System.Drawing.Point(371, 67);
+            this.userControl11.Location = new System.Drawing.Point(369, -3);
             this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(1218, 772);
+            this.userControl11.Size = new System.Drawing.Size(1218, 760);
             this.userControl11.TabIndex = 6;
             // 
             // home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1720, 772);
+            this.ClientSize = new System.Drawing.Size(1590, 762);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.panel12);
