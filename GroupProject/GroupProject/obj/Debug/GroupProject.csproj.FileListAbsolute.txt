@@ -21,3 +21,4 @@ D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.User
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.signUp.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
