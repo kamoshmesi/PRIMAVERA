@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace GroupProject
 {
-    public partial class home : Form
+    public partial class application : Form
     {
-        public home()
+        public application()
         {
             InitializeComponent();
+            burger.BringToFront();
+            pizza.BringToFront();
+            beverages.BringToFront();
+            homee1.BringToFront();
         }
 
         private void signUp_Load(object sender, EventArgs e)
@@ -24,17 +28,17 @@ namespace GroupProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            homee1.BringToFront();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            beverages.BringToFront();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            burger.BringToFront();
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -60,6 +64,11 @@ namespace GroupProject
         private void userControl11_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pizza.BringToFront();
         }
     }
 }

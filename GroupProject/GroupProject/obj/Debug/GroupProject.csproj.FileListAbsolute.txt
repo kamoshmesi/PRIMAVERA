@@ -15,10 +15,11 @@ D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.cspr
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
-D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.signUp.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.UserControl1.resources
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
-D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
-D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.home.resources
-D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csprojAssemblyReference.cache
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.beverages.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.pizza.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.burger.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.application.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.homee.resources

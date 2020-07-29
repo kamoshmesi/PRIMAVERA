@@ -46,31 +46,49 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="beverages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="beverages.Designer.cs">
+      <DependentUpon>beverages.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
+    <Compile Include="homee.cs">
+      <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="homee.Designer.cs">
+      <DependentUpon>homee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pizza.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pizza.Designer.cs">
+      <DependentUpon>pizza.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserControl1.cs">
+    <Compile Include="burger.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControl1.Designer.cs">
-      <DependentUpon>UserControl1.cs</DependentUpon>
+    <Compile Include="burger.Designer.cs">
+      <DependentUpon>burger.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="beverages.resx">
+      <DependentUpon>beverages.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <EmbeddedResource Include="homee.resx">
+      <DependentUpon>homee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pizza.resx">
+      <DependentUpon>pizza.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -82,8 +100,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="UserControl1.resx">
-      <DependentUpon>UserControl1.cs</DependentUpon>
+    <EmbeddedResource Include="burger.resx">
+      <DependentUpon>burger.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -169,6 +187,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\d969b50b-37af-48cc-9931-1110ad61fb87.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1c84d92-ec1e-4453-a8f5-7d26dd3b3cd6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\725358f4-56d5-4f5a-bacb-66d968a7edb7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\553f27be-8490-4f3e-89f7-c036e4ad27c7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2be03e08-ee63-4b32-b359-e57491a5b26e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6581ed13-809b-4a1f-807c-16771a151a1a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1fa20d6e-8cd0-4ee1-8c9e-0890d114aeb5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\411c3dd6-48ad-43e1-ac3e-813006115e2a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a6d4673c-0635-40e7-869f-872d467af2b3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a129ccf2-e49b-4953-b938-9982d2b90509.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
