@@ -175,6 +175,12 @@
   <data name="off" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="top-view-fast-food-with-copy-space_23-2148273099" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-fast-food-with-copy-space_23-2148273099.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a129ccf2-e49b-4953-b938-9982d2b90509" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a129ccf2-e49b-4953-b938-9982d2b90509.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="553f27be-8490-4f3e-89f7-c036e4ad27c7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\553f27be-8490-4f3e-89f7-c036e4ad27c7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -211,10 +217,13 @@
   <data name="food-delivery" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\food-delivery.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="462860" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\462860.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="house" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\house.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="a129ccf2-e49b-4953-b938-9982d2b90509" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a129ccf2-e49b-4953-b938-9982d2b90509.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pinterest_profile_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pinterest_profile_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

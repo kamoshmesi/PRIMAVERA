@@ -41,10 +41,10 @@
             this.panel5 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.homee1 = new GroupProject.homee();
             this.pizza = new GroupProject.pizza();
             this.beverages = new GroupProject.beverages();
             this.burger = new GroupProject.burger();
-            this.homee1 = new GroupProject.homee();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
@@ -237,6 +237,14 @@
             this.panel4.Size = new System.Drawing.Size(55, 50);
             this.panel4.TabIndex = 7;
             // 
+            // homee1
+            // 
+            this.homee1.BackColor = System.Drawing.Color.White;
+            this.homee1.Location = new System.Drawing.Point(370, 0);
+            this.homee1.Name = "homee1";
+            this.homee1.Size = new System.Drawing.Size(1218, 772);
+            this.homee1.TabIndex = 9;
+            // 
             // pizza
             // 
             this.pizza.Location = new System.Drawing.Point(371, 0);
@@ -257,14 +265,6 @@
             this.burger.Name = "burger";
             this.burger.Size = new System.Drawing.Size(1218, 760);
             this.burger.TabIndex = 6;
-            // 
-            // homee1
-            // 
-            this.homee1.BackColor = System.Drawing.Color.White;
-            this.homee1.Location = new System.Drawing.Point(370, 0);
-            this.homee1.Name = "homee1";
-            this.homee1.Size = new System.Drawing.Size(1218, 772);
-            this.homee1.TabIndex = 9;
             // 
             // application
             // 

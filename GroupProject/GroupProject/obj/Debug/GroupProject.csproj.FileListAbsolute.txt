@@ -23,3 +23,5 @@ D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.pizz
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.burger.resources
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.application.resources
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.homee.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csprojAssemblyReference.cache
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.signupmain.resources

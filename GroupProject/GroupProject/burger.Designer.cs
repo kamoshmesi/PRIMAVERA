@@ -91,7 +91,7 @@
             // 
             this.total1.AutoSize = true;
             this.total1.Font = new System.Drawing.Font("Arial", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.total1.Location = new System.Drawing.Point(1054, 27);
+            this.total1.Location = new System.Drawing.Point(996, 24);
             this.total1.Name = "total1";
             this.total1.Size = new System.Drawing.Size(0, 38);
             this.total1.TabIndex = 10;

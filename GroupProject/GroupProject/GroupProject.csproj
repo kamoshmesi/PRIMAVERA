@@ -78,6 +78,12 @@
     <Compile Include="burger.Designer.cs">
       <DependentUpon>burger.cs</DependentUpon>
     </Compile>
+    <Compile Include="signupmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signupmain.Designer.cs">
+      <DependentUpon>signupmain.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="beverages.resx">
       <DependentUpon>beverages.cs</DependentUpon>
     </EmbeddedResource>
@@ -102,6 +108,9 @@
     </Compile>
     <EmbeddedResource Include="burger.resx">
       <DependentUpon>burger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signupmain.resx">
+      <DependentUpon>signupmain.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -214,6 +223,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\a129ccf2-e49b-4953-b938-9982d2b90509.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-fast-food-with-copy-space_23-2148273099.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\462860.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinterest_profile_image.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

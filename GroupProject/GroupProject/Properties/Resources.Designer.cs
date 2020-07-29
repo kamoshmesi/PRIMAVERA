@@ -123,6 +123,16 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _462860 {
+            get {
+                object obj = ResourceManager.GetObject("462860", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _553f27be_8490_4f3e_89f7_c036e4ad27c7 {
             get {
                 object obj = ResourceManager.GetObject("553f27be-8490-4f3e-89f7-c036e4ad27c7", resourceCulture);
@@ -386,6 +396,26 @@ namespace GroupProject.Properties {
         internal static System.Drawing.Bitmap person {
             get {
                 object obj = ResourceManager.GetObject("person", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pinterest_profile_image {
+            get {
+                object obj = ResourceManager.GetObject("pinterest_profile_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap top_view_fast_food_with_copy_space_23_2148273099 {
+            get {
+                object obj = ResourceManager.GetObject("top-view-fast-food-with-copy-space_23-2148273099", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

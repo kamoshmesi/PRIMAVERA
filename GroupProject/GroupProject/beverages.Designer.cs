@@ -57,6 +57,7 @@
             this.flowLayoutPanel4 = new System.Windows.Forms.FlowLayoutPanel();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.total1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.panel4.SuspendLayout();
@@ -71,6 +72,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.panel1.Controls.Add(this.total1);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.button1);
@@ -187,7 +189,7 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Arial", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(354, 74);
+            this.label9.Location = new System.Drawing.Point(384, 74);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(128, 93);
             this.label9.TabIndex = 13;
@@ -198,11 +200,11 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Silver;
-            this.label6.Location = new System.Drawing.Point(375, 16);
+            this.label6.Location = new System.Drawing.Point(385, 16);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(272, 29);
+            this.label6.Size = new System.Drawing.Size(152, 58);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Schweppes Lemonade";
+            this.label6.Text = "Schweppes \r\nLemonade";
             this.label6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // panel3
@@ -296,6 +298,7 @@
             this.button1.TabIndex = 24;
             this.button1.Text = "Price";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label3
             // 
@@ -385,6 +388,15 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(328, 276);
             this.flowLayoutPanel1.TabIndex = 9;
             // 
+            // total1
+            // 
+            this.total1.AutoSize = true;
+            this.total1.Font = new System.Drawing.Font("Arial", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.total1.Location = new System.Drawing.Point(993, 29);
+            this.total1.Name = "total1";
+            this.total1.Size = new System.Drawing.Size(0, 38);
+            this.total1.TabIndex = 26;
+            // 
             // beverages
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -445,5 +457,6 @@
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label total1;
     }
 }
