@@ -21,3 +21,4 @@ C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupP
 C:\Users\msi modern\Desktop\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.Form2.resources
 D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.home.resources
+D:\assessment\c#\PRIMAVERA\GroupProject\GroupProject\obj\Debug\GroupProject.csprojAssemblyReference.cache
