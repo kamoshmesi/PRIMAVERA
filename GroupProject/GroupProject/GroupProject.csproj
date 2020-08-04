@@ -52,11 +52,29 @@
     <Compile Include="beverages.Designer.cs">
       <DependentUpon>beverages.cs</DependentUpon>
     </Compile>
+    <Compile Include="createaccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createaccount.Designer.cs">
+      <DependentUpon>createaccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete.Designer.cs">
+      <DependentUpon>delete.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hellouser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hellouser.Designer.cs">
+      <DependentUpon>hellouser.cs</DependentUpon>
     </Compile>
     <Compile Include="homee.cs">
       <SubType>UserControl</SubType>
@@ -84,11 +102,32 @@
     <Compile Include="signupmain.Designer.cs">
       <DependentUpon>signupmain.cs</DependentUpon>
     </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewdataaa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="viewdataaa.Designer.cs">
+      <DependentUpon>viewdataaa.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="beverages.resx">
       <DependentUpon>beverages.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="createaccount.resx">
+      <DependentUpon>createaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete.resx">
+      <DependentUpon>delete.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hellouser.resx">
+      <DependentUpon>hellouser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="homee.resx">
       <DependentUpon>homee.cs</DependentUpon>
@@ -111,6 +150,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="signupmain.resx">
       <DependentUpon>signupmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewdataaa.resx">
+      <DependentUpon>viewdataaa.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -232,6 +277,42 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pinterest_profile_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-user-computer-icons-software-developer-avatar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-man-avatar-icon-flat-vector-19152349.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-man-avatar-icon-flat-vector-19152349 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-arrow-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-arrow-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-fast-food-black-background-mock-up_23-2148321326.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-fast-food-black-background-mock-up_23-21483213261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaj1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8Fg9vW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8Fg9vW1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

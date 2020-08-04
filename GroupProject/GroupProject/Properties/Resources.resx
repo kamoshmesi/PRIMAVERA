@@ -121,8 +121,11 @@
   <data name="BP_Double-Low-Priest_On-Black_IMG_0380-scaled-e1591017405865" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BP_Double-Low-Priest_On-Black_IMG_0380-scaled-e1591017405865.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-hamburger-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-hamburger-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="top-view-fast-food-black-background-mock-up_23-21483213261" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-fast-food-black-background-mock-up_23-21483213261.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="395e9d0e-6c13-438e-b6b6-b0c789dd6bc5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\395e9d0e-6c13-438e-b6b6-b0c789dd6bc5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,14 +136,20 @@
   <data name="725358f4-56d5-4f5a-bacb-66d968a7edb7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\725358f4-56d5-4f5a-bacb-66d968a7edb7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="new-man-avatar-icon-flat-vector-19152349" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new-man-avatar-icon-flat-vector-19152349.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Capture" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Capture.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-home-500" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-home-500.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hamburger-slider-wallpaper-hamburger-burger-png-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hamburger-slider-wallpaper-hamburger-burger-png-image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="avatar-user-computer-icons-software-developer-avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar-user-computer-icons-software-developer-avatar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2be03e08-ee63-4b32-b359-e57491a5b26e" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2be03e08-ee63-4b32-b359-e57491a5b26e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -148,17 +157,26 @@
   <data name="1fa20d6e-8cd0-4ee1-8c9e-0890d114aeb5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1fa20d6e-8cd0-4ee1-8c9e-0890d114aeb5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="3b9851f0-f850-42cd-a1a4-8f09cda4dcd5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3b9851f0-f850-42cd-a1a4-8f09cda4dcd5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="1200px-RedDot_Burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1200px-RedDot_Burger.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="b71ed2c9-ea96-4816-9f3f-ad4e71991bec" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\b71ed2c9-ea96-4816-9f3f-ad4e71991bec.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c1c84d92-ec1e-4453-a8f5-7d26dd3b3cd6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c1c84d92-ec1e-4453-a8f5-7d26dd3b3cd6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="3b9851f0-f850-42cd-a1a4-8f09cda4dcd5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3b9851f0-f850-42cd-a1a4-8f09cda4dcd5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new-man-avatar-icon-flat-vector-19152349 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new-man-avatar-icon-flat-vector-19152349 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pinterest_profile_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pinterest_profile_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8Fg9vW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8Fg9vW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-back-arrow-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-back-arrow-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bacon-burger" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bacon-burger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,6 +196,9 @@
   <data name="top-view-fast-food-with-copy-space_23-2148273099" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\top-view-fast-food-with-copy-space_23-2148273099.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="c1c84d92-ec1e-4453-a8f5-7d26dd3b3cd6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c1c84d92-ec1e-4453-a8f5-7d26dd3b3cd6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="a129ccf2-e49b-4953-b938-9982d2b90509" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a129ccf2-e49b-4953-b938-9982d2b90509.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -187,11 +208,14 @@
   <data name="icons8-pizza-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-pizza-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hamburger-slider-wallpaper-hamburger-burger-png-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamburger-slider-wallpaper-hamburger-burger-png-image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="person" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\person.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aaj1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aaj1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="logo_transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo_transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -201,6 +225,15 @@
   </data>
   <data name="88a10efc-96da-41a5-b8bf-5d803783fcf9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\88a10efc-96da-41a5-b8bf-5d803783fcf9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-back-arrow-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-back-arrow-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-fast-food-black-background-mock-up_23-2148321326" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-fast-food-black-background-mock-up_23-2148321326.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-hamburger-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-hamburger-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="d969b50b-37af-48cc-9931-1110ad61fb87" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\d969b50b-37af-48cc-9931-1110ad61fb87.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -217,13 +250,16 @@
   <data name="food-delivery" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\food-delivery.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="462860" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\462860.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="aaj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aaj.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="house" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\house.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pinterest_profile_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pinterest_profile_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="462860" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\462860.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8Fg9vW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8Fg9vW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

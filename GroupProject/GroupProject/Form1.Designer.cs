@@ -28,19 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(application));
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
+            this.viewdataaa1 = new GroupProject.viewdataaa();
             this.homee1 = new GroupProject.homee();
             this.pizza = new GroupProject.pizza();
             this.beverages = new GroupProject.beverages();
@@ -82,6 +84,57 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Primavera";
             // 
+            // panel10
+            // 
+            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
+            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel10.Location = new System.Drawing.Point(19, 521);
+            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(55, 52);
+            this.panel10.TabIndex = 9;
+            // 
+            // panel7
+            // 
+            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
+            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel7.Location = new System.Drawing.Point(19, 437);
+            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(55, 52);
+            this.panel7.TabIndex = 8;
+            // 
+            // panel5
+            // 
+            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
+            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel5.Location = new System.Drawing.Point(19, 238);
+            this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(55, 49);
+            this.panel5.TabIndex = 8;
+            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+            // 
+            // panel6
+            // 
+            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
+            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel6.Location = new System.Drawing.Point(19, 334);
+            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(55, 53);
+            this.panel6.TabIndex = 8;
+            // 
+            // panel4
+            // 
+            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
+            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel4.Location = new System.Drawing.Point(19, 143);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(55, 50);
+            this.panel4.TabIndex = 7;
+            // 
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.Black;
@@ -97,9 +150,10 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(297, 68);
             this.button7.TabIndex = 6;
-            this.button7.Text = "Customers";
+            this.button7.Text = "Customer Data";
             this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button4
             // 
@@ -131,7 +185,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Calibri", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(89, 333);
+            this.button3.Location = new System.Drawing.Point(89, 334);
             this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(297, 68);
@@ -186,84 +240,52 @@
             this.fileSystemWatcher1.EnableRaisingEvents = true;
             this.fileSystemWatcher1.SynchronizingObject = this;
             // 
-            // panel10
+            // viewdataaa1
             // 
-            this.panel10.BackgroundImage = global::GroupProject.Properties.Resources.person;
-            this.panel10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel10.Location = new System.Drawing.Point(19, 521);
-            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(55, 52);
-            this.panel10.TabIndex = 9;
-            // 
-            // panel7
-            // 
-            this.panel7.BackgroundImage = global::GroupProject.Properties.Resources.icons8_coffee_to_go_480;
-            this.panel7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel7.Location = new System.Drawing.Point(19, 437);
-            this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(55, 52);
-            this.panel7.TabIndex = 8;
-            // 
-            // panel5
-            // 
-            this.panel5.BackgroundImage = global::GroupProject.Properties.Resources.icons8_hamburger_96;
-            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel5.Location = new System.Drawing.Point(18, 238);
-            this.panel5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(55, 49);
-            this.panel5.TabIndex = 8;
-            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
-            // 
-            // panel6
-            // 
-            this.panel6.BackgroundImage = global::GroupProject.Properties.Resources.icons8_pizza_96;
-            this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel6.Location = new System.Drawing.Point(19, 333);
-            this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(55, 53);
-            this.panel6.TabIndex = 8;
-            // 
-            // panel4
-            // 
-            this.panel4.BackgroundImage = global::GroupProject.Properties.Resources.house;
-            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel4.Location = new System.Drawing.Point(19, 143);
-            this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(55, 50);
-            this.panel4.TabIndex = 7;
+            this.viewdataaa1.BackgroundImage = global::GroupProject.Properties.Resources._8Fg9vW1;
+            this.viewdataaa1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.viewdataaa1.Location = new System.Drawing.Point(371, -6);
+            this.viewdataaa1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.viewdataaa1.Name = "viewdataaa1";
+            this.viewdataaa1.Size = new System.Drawing.Size(1219, 772);
+            this.viewdataaa1.TabIndex = 10;
             // 
             // homee1
             // 
             this.homee1.BackColor = System.Drawing.Color.White;
-            this.homee1.Location = new System.Drawing.Point(370, 0);
+            this.homee1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("homee1.BackgroundImage")));
+            this.homee1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.homee1.Location = new System.Drawing.Point(371, -5);
+            this.homee1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.homee1.Name = "homee1";
-            this.homee1.Size = new System.Drawing.Size(1218, 772);
+            this.homee1.Size = new System.Drawing.Size(1219, 772);
             this.homee1.TabIndex = 9;
             // 
             // pizza
             // 
+            this.pizza.BackColor = System.Drawing.Color.Gray;
             this.pizza.Location = new System.Drawing.Point(371, 0);
+            this.pizza.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pizza.Name = "pizza";
-            this.pizza.Size = new System.Drawing.Size(1218, 772);
+            this.pizza.Size = new System.Drawing.Size(1219, 772);
             this.pizza.TabIndex = 8;
             // 
             // beverages
             // 
+            this.beverages.BackColor = System.Drawing.Color.Gray;
             this.beverages.Location = new System.Drawing.Point(371, 0);
+            this.beverages.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.beverages.Name = "beverages";
-            this.beverages.Size = new System.Drawing.Size(1218, 772);
+            this.beverages.Size = new System.Drawing.Size(1219, 772);
             this.beverages.TabIndex = 7;
             // 
             // burger
             // 
+            this.burger.BackColor = System.Drawing.Color.Gray;
             this.burger.Location = new System.Drawing.Point(371, 0);
+            this.burger.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.burger.Name = "burger";
-            this.burger.Size = new System.Drawing.Size(1218, 760);
+            this.burger.Size = new System.Drawing.Size(1219, 761);
             this.burger.TabIndex = 6;
             // 
             // application
@@ -272,7 +294,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1590, 762);
+            this.ClientSize = new System.Drawing.Size(1540, 762);
+            this.Controls.Add(this.viewdataaa1);
             this.Controls.Add(this.homee1);
             this.Controls.Add(this.pizza);
             this.Controls.Add(this.beverages);
@@ -280,10 +303,10 @@
             this.Controls.Add(this.panel1);
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "application";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "signUp";
             this.Load += new System.EventHandler(this.signUp_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -311,6 +334,7 @@
         private beverages beverages;
         public System.Windows.Forms.Button button2;
         private homee homee1;
+        private viewdataaa viewdataaa1;
     }
 }
 

@@ -183,6 +183,26 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8Fg9vW {
+            get {
+                object obj = ResourceManager.GetObject("8Fg9vW", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8Fg9vW1 {
+            get {
+                object obj = ResourceManager.GetObject("8Fg9vW1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap a129ccf2_e49b_4953_b938_9982d2b90509 {
             get {
                 object obj = ResourceManager.GetObject("a129ccf2-e49b-4953-b938-9982d2b90509", resourceCulture);
@@ -196,6 +216,36 @@ namespace GroupProject.Properties {
         internal static System.Drawing.Bitmap a6d4673c_0635_40e7_869f_872d467af2b3 {
             get {
                 object obj = ResourceManager.GetObject("a6d4673c-0635-40e7-869f-872d467af2b3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap aaj {
+            get {
+                object obj = ResourceManager.GetObject("aaj", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap aaj1 {
+            get {
+                object obj = ResourceManager.GetObject("aaj1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap avatar_user_computer_icons_software_developer_avatar {
+            get {
+                object obj = ResourceManager.GetObject("avatar-user-computer-icons-software-developer-avatar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -323,6 +373,26 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_back_arrow_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-back-arrow-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_back_arrow_641 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-back-arrow-641", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_coffee_to_go_480 {
             get {
                 object obj = ResourceManager.GetObject("icons8-coffee-to-go-480", resourceCulture);
@@ -383,6 +453,26 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap new_man_avatar_icon_flat_vector_19152349 {
+            get {
+                object obj = ResourceManager.GetObject("new-man-avatar-icon-flat-vector-19152349", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap new_man_avatar_icon_flat_vector_19152349__2_ {
+            get {
+                object obj = ResourceManager.GetObject("new-man-avatar-icon-flat-vector-19152349 (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap off {
             get {
                 object obj = ResourceManager.GetObject("off", resourceCulture);
@@ -403,9 +493,39 @@ namespace GroupProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pi {
+            get {
+                object obj = ResourceManager.GetObject("pi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pinterest_profile_image {
             get {
                 object obj = ResourceManager.GetObject("pinterest_profile_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap top_view_fast_food_black_background_mock_up_23_2148321326 {
+            get {
+                object obj = ResourceManager.GetObject("top-view-fast-food-black-background-mock-up_23-2148321326", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap top_view_fast_food_black_background_mock_up_23_21483213261 {
+            get {
+                object obj = ResourceManager.GetObject("top-view-fast-food-black-background-mock-up_23-21483213261", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -15,10 +15,10 @@ namespace GroupProject
         public application()
         {
             InitializeComponent();
-            burger.BringToFront();
-            pizza.BringToFront();
-            beverages.BringToFront();
+           
             homee1.BringToFront();
+           
+
         }
 
         private void signUp_Load(object sender, EventArgs e)
@@ -69,6 +69,11 @@ namespace GroupProject
         private void button3_Click(object sender, EventArgs e)
         {
             pizza.BringToFront();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            viewdataaa1.BringToFront();
         }
     }
 }
